@@ -15,8 +15,9 @@ Shoot: 'Mouse 1'\
 Aim: 'Mouse'\
 The plasma weapon has one second of charging time. Hold your left mouse button to start shooting.
 
-Build of the game for Windows is available FOR FREE on:
+# Links
+Build of the game for Windows is available FOR FREE on:\
 https://gamejolt.com/games/lone_fragger/400278
 
-Check my other games on:
+Check my other games on:\
 https://gamejolt.com/@demircialiihsan
