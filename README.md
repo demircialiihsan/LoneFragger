@@ -3,7 +3,7 @@
 This game was made in 24 hour long GameJam by two people.
 
 Credits:
-Ali İhsan Demirci: Development & Programming
+Ali İhsan Demirci: Development & Programming\
 Said Demirci: VisualDesign & Animation
 
 Controls:
